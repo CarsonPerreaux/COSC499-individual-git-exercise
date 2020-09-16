@@ -1,2 +1,3 @@
 module sortedArrayDemo {
+	requires junit;
 }
