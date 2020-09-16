@@ -6,6 +6,7 @@ public class SortStringArray {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		// adding an inline comment to show commit
 		// a string array to sort
 		String[] myStringArray = new String[] {"hello", "how", "are", "you"};
 		sortStringArray(myStringArray);
